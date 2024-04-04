@@ -11,3 +11,4 @@
 ## docker-compose file: ProductCategories.yml.
 ## Коллекция запросов Postman прилагается.
 ## В папке images наглядный процесс полной работоспособности. 
+## Конкретно SQL-запрос в файле SQL request.txt
